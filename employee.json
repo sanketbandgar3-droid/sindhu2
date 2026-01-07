@@ -1,0 +1,45 @@
+[
+  {
+    "emp_id": 101,
+    "emp_name": "Amit Sharma",
+    "department": "IT",
+    "salary": 75000,
+    "skills": ["Python", "SQL", "Spark"],
+    "projects": [
+      {"proj_id": 1, "proj_name": "ETL Pipeline"},
+      {"proj_id": 2, "proj_name": "Data Migration"}
+    ],
+    "addresses": [
+      {"type": "Home", "city": "Pune"},
+      {"type": "Office", "city": "Mumbai"}
+    ]
+  },
+  {
+    "emp_id": 102,
+    "emp_name": "Sneha Patil",
+    "department": "HR",
+    "salary": 55000,
+    "skills": ["Recruitment", "Communication"],
+    "projects": [
+      {"proj_id": 3, "proj_name": "Employee Engagement"}
+    ],
+    "addresses": [
+      {"type": "Home", "city": "Nashik"}
+    ]
+  },
+  {
+    "emp_id": 103,
+    "emp_name": "Rahul Desai",
+    "department": "Finance",
+    "salary": 67000,
+    "skills": ["Excel", "Power BI", "Accounting"],
+    "projects": [
+      {"proj_id": 4, "proj_name": "Budget Forecasting"},
+      {"proj_id": 5, "proj_name": "Performance Audit"}
+    ],
+    "addresses": [
+      {"type": "Home", "city": "Thane"},
+      {"type": "Office", "city": "Mumbai"}
+    ]
+  }
+]

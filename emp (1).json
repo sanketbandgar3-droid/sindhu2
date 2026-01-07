@@ -1,0 +1,26 @@
+[
+    {
+        "EmpID": 1,
+        "EmpName": "Rahul Sharma",
+        "Department": "IT",
+        "Salary": 50000
+    },
+    {
+        "EmpID": 2,
+        "EmpName": "Sneha Patil",
+        "Department": "HR",
+        "Salary": 45000
+    },
+    {
+        "EmpID": 3,
+        "EmpName": "Amit Kumar",
+        "Department": "Finance",
+        "Salary": 55000
+    },
+    {
+        "EmpID": 4,
+        "EmpName": "Priya Singh",
+        "Department": "IT",
+        "Salary": 60000
+    }
+]
